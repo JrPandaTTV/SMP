@@ -1,0 +1,4 @@
+name: SMP
+version: '${project.version}'
+main: com.jrpanda.SMP.Main
+api-version: 1.19
