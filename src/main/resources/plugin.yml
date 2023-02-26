@@ -2,3 +2,8 @@ name: SMP
 version: '${project.version}'
 main: com.jrpanda.SMP.Main
 api-version: 1.19
+commands:
+  rank:
+    description: Display a list of ranks command.
+    usage: /<command> [args]
+    aliases: []
